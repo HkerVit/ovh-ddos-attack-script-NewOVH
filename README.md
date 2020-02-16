@@ -1,0 +1,5 @@
+# ovh-ddos-attack-script
+# ./NewOVH ip port 800 800 secons 
+# TÜRK VE YURT DIŞI İÇİN TASARLANMIŞ ÖZEL DDOS SCRİPTİ 
+# TURKİYEDE TEK YURT DIŞINDA İLK SCRİPT 
+# OVH WHİTELİST İP SCANNER LİST DDOSERRR
